@@ -24,7 +24,7 @@ public class addDigits {
 		num = num/10;
 		
 		//prints the result
-		
+		//add features
 		}
 		System.out.println("Sum of digits: "+sum);
 	}
