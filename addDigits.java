@@ -3,7 +3,7 @@ package com.assignment.java;
 import java.util.Scanner;
 
 public class addDigits {
-
+// first file
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int num,digits, sum =0;
